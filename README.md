@@ -3,7 +3,7 @@
 <!--
 **poojithagorantla/poojithagorantla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
 <div align="center" >
     <img src="poojitha gorantla intro.gif"width="50%"/>
@@ -21,19 +21,19 @@ Here are some ideas to get you started:-->
 
 <div align="center"> 
 <h2>About me </h2>
-<h3>
+
 I got my Master's of Computer Science from University of North Texas.<br>
 I Worked in Deloitte as a Quality Analyst.<br>
 I worked in Amazon as VCS.
-</h3>
+
 </div>
 <div align="center">
 <h2>Fun Facts </h2>
-<h3>
+
 I love reading. My favorite authors are Murakami, Sally Rooney.<br>
 I used to tutor elementary kids when i was doing engineering.<br>
 I have 2 cats Leaf and Nicholas Autumn.
-</h3>
+
 </div>
 <hr>
 <div align="left">
