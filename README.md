@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2>About me </h2>
 
 I got my Master's of Computer Science from University of North Texas.<br>
-I Worked in Deloitte as a Quality Analyst.<br>
+I Worked in Deloitte as an Quality Analyst.<br>
 I worked in Amazon as VCS.
 
 </div>
